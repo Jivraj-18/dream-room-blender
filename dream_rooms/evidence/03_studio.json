@@ -1,0 +1,23 @@
+{
+  "room": "Studio",
+  "panel": 3,
+  "blender_version": "5.2.2 LTS",
+  "scene_file": "/home/jivraj/experiments/blender/dream_rooms/scenes/03_studio.blend",
+  "render_file": "/home/jivraj/experiments/blender/dream_rooms/renders/03_studio.png",
+  "object_count": 1090,
+  "collections": {
+    "Architecture": 149,
+    "Furniture": 56,
+    "Textiles": 201,
+    "Plants": 373,
+    "Decor": 303,
+    "Lighting": 6,
+    "Presentation": 2
+  },
+  "assumed_dimensions_m": [
+    6.4,
+    5.5,
+    3.06
+  ],
+  "preview": false
+}

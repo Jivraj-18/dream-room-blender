@@ -1,0 +1,27 @@
+{
+  "room": "Simple",
+  "panel": 1,
+  "blender_version": "5.2.2 LTS",
+  "scene_file": "/home/jivraj/experiments/blender/dream_rooms/scenes/01_simple.blend",
+  "render_file": "/home/jivraj/experiments/blender/dream_rooms/renders/01_simple.png",
+  "object_count": 188,
+  "collections": {
+    "Architecture": 149,
+    "Furniture": 23,
+    "Textiles": 0,
+    "Plants": 0,
+    "Decor": 10,
+    "Lighting": 4,
+    "Presentation": 2
+  },
+  "assumed_dimensions_m": [
+    6.4,
+    5.5,
+    3.06
+  ],
+  "preview": false,
+  "resolution": [
+    1100,
+    760
+  ]
+}

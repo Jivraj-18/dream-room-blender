@@ -1,0 +1,27 @@
+{
+  "room": "Comfort",
+  "panel": 2,
+  "blender_version": "5.2.2 LTS",
+  "scene_file": "/home/jivraj/experiments/blender/dream_rooms/scenes/02_comfort.blend",
+  "render_file": "/home/jivraj/experiments/blender/dream_rooms/renders/02_comfort.png",
+  "object_count": 551,
+  "collections": {
+    "Architecture": 149,
+    "Furniture": 36,
+    "Textiles": 180,
+    "Plants": 156,
+    "Decor": 21,
+    "Lighting": 7,
+    "Presentation": 2
+  },
+  "assumed_dimensions_m": [
+    6.4,
+    5.5,
+    3.06
+  ],
+  "preview": false,
+  "resolution": [
+    1100,
+    760
+  ]
+}

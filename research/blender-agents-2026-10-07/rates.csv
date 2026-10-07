@@ -1,0 +1,6 @@
+provider_route,model,fresh_input_usd_per_million,cache_read_usd_per_million,cache_write_usd_per_million,output_including_reasoning_usd_per_million,service_tier,notes,source_id,checked_date,use
+OpenAI API,gpt-6.1-sol,2,0.1,2.5,10,standard short context,provider-dependent,S39,2026-10-07,reference_only_no_paid_inference
+OpenAI API,gpt-6-astra,10,1,12.5,50,standard short context,provider-dependent,S39,2026-10-07,reference_only_no_paid_inference
+Claude API,claude-sonnet-5-5,2,0.2,2.5,10,standard,5-minute writes; 1-hour writes 4.00,S40,2026-10-07,reference_only_no_paid_inference
+Claude API,claude-opus-5-5,4,0.2,5,20,standard,5-minute writes; 1-hour writes 8.00,S40,2026-10-07,reference_only_no_paid_inference
+Gemini Developer API,gemini-3.8-flash,0.75,0.075,,3.75,standard promotional through 2026-12-31,separate storage rules; not Antigravity invoice rates,S41,2026-10-07,reference_only_no_paid_inference

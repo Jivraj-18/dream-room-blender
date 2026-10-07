@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+blender_workspace_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+export XDG_CACHE_HOME="$blender_workspace_dir/.tools/blender/cache"
+exec "$blender_workspace_dir/.tools/blender/blender-5.2.2-linux-x64/blender" "$@"

@@ -1,0 +1,23 @@
+{
+  "room": "Dream",
+  "panel": 4,
+  "blender_version": "5.2.2 LTS",
+  "scene_file": "/home/jivraj/experiments/blender/dream_rooms/scenes/04_dream.blend",
+  "render_file": "/home/jivraj/experiments/blender/dream_rooms/renders/04_dream.png",
+  "object_count": 1048,
+  "collections": {
+    "Architecture": 149,
+    "Furniture": 91,
+    "Textiles": 205,
+    "Plants": 371,
+    "Decor": 219,
+    "Lighting": 11,
+    "Presentation": 2
+  },
+  "assumed_dimensions_m": [
+    6.4,
+    5.5,
+    3.06
+  ],
+  "preview": false
+}

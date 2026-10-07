@@ -1,0 +1,24 @@
+{
+  "room": "comfort",
+  "file": "/home/jivraj/experiments/blender/dream_rooms/viewer/models/02_comfort.glb",
+  "bytes": 7868324,
+  "authored_objects": 542,
+  "baked_color_materials": [
+    "Cream woven rug with labyrinth pattern",
+    "Honey oak furniture",
+    "Oak floor variation 0",
+    "Oak floor variation 1",
+    "Oak floor variation 2",
+    "Oak floor variation 3",
+    "Oak floor variation 4",
+    "Walnut detail"
+  ],
+  "omitted": [
+    "Presentation ground",
+    "render cameras",
+    "Blender light rig",
+    "procedural micro-bump"
+  ],
+  "material_note": "Base-color procedural textures baked on a canonical UV plane; browser lighting differs from Cycles.",
+  "window_note": "Distant greenery is a cropped-reference backdrop, not modeled vegetation outside the room."
+}

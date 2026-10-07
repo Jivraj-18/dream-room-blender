@@ -1,0 +1,11 @@
+/home/jivraj/experiments/blender/dream_rooms/build_rooms.py:65: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+/home/jivraj/experiments/blender/dream_rooms/build_rooms.py:874: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+Info: Saved as "01_simple.blend"
+ROOM_BUILT {"room": "Simple", "panel": 1, "blender_version": "5.2.2 LTS", "scene_file": "/home/jivraj/experiments/blender/dream_rooms/scenes/01_simple.blend", "render_file": "/home/jivraj/experiments/blender/dream_rooms/renders/previews/01_simple.png", "object_count": 188, "collections": {"Architecture": 149, "Furniture": 23, "Textiles": 0, "Plants": 0, "Decor": 10, "Lighting": 4, "Presentation": 2}, "assumed_dimensions_m": [6.4, 5.5, 3.06], "preview": true}
+00:05.076  render           | Saved: '/home/jivraj/experiments/blender/dream_rooms/renders/previews/01_simple.png'
+ROOM_RENDERED /home/jivraj/experiments/blender/dream_rooms/renders/previews/01_simple.png
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+
+Blender quit

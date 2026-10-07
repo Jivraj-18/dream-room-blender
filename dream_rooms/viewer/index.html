@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#202725">
+  <title>Dream Room · An interactive reference study</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script type="importmap">
+    {"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}
+  </script>
+</head>
+<body>
+  <main id="app">
+    <header>
+      <a class="brand" href="./"><span class="brand-mark">▧</span> DREAM ROOM</a>
+      <span class="edition">A reference study, in four rooms</span>
+      <a id="download" class="download" href="models/01_simple.glb" download>Download 3D file <span>↗</span></a>
+    </header>
+    <section class="stage" aria-label="Interactive 3D room">
+      <div id="canvas-host"></div>
+      <div class="room-caption">
+        <div class="eyebrow" id="room-number">ROOM 01 / 04</div>
+        <h1 id="room-title">Simple.</h1>
+        <p id="room-description">The essentials. Warm oak, daylight, and room to begin.</p>
+      </div>
+      <div class="tools" aria-label="View controls">
+        <div class="segmented"><button id="orbit" class="active" aria-pressed="true">Orbit</button><button id="walk" aria-pressed="false">Walk inside</button></div>
+        <button id="walls" aria-pressed="false">Hide side walls</button>
+        <button id="reset">Reset view</button>
+      </div>
+      <div id="loading" role="status"><span class="spinner"></span><span id="loading-text">Opening the room…</span></div>
+      <div id="selection" hidden><span id="selection-category"></span><strong id="selection-name"></strong><button id="clear-selection" aria-label="Clear selection">×</button></div>
+      <p id="instructions" class="instructions">Drag to orbit · Scroll to zoom · Click an object to inspect</p>
+      <div class="touch-walk" id="touch-walk" hidden aria-label="Walk controls">
+        <button data-move="forward" aria-label="Move forward">↑</button>
+        <div><button data-move="left" aria-label="Move left">←</button><button data-move="back" aria-label="Move backward">↓</button><button data-move="right" aria-label="Move right">→</button></div>
+      </div>
+    </section>
+    <nav class="rooms" aria-label="Choose a room">
+      <button class="room-card selected" data-room="1" aria-pressed="true"><img src="posters/01_simple.jpg" alt="Simple room preview"><span><small>01</small><strong>Simple</strong><em>Form & proportion</em></span></button>
+      <button class="room-card" data-room="2" aria-pressed="false"><img src="posters/02_comfort.jpg" alt="Comfort room preview"><span><small>02</small><strong>Comfort</strong><em>Texture & warmth</em></span></button>
+      <button class="room-card" data-room="3" aria-pressed="false"><img src="posters/03_studio.jpg" alt="Studio room preview"><span><small>03</small><strong>Studio</strong><em>Objects & character</em></span></button>
+      <button class="room-card" data-room="4" aria-pressed="false"><img src="posters/04_dream.jpg" alt="Dream room preview"><span><small>04</small><strong>Dream</strong><em>Layers & detail</em></span></button>
+    </nav>
+    <footer><span>Editable geometry, interpreted from one reference image.</span><span>Dimensions inferred · Interactive lighting differs from the still renders</span></footer>
+  </main>
+  <script type="module" src="viewer.js"></script>
+</body>
+</html>

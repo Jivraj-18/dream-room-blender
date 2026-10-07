@@ -1,0 +1,84 @@
+{
+  "blender": "5.2.2 LTS",
+  "rooms": [
+    {
+      "room": "01_simple",
+      "blend_bytes": 3018900,
+      "render_dimensions": [
+        1100,
+        760
+      ],
+      "glb_bytes": 5479660,
+      "glb_sha256": "71c57d4b64d05d57f7d760c83f523d89a7973e88ac8fd67bead164219bf92e29",
+      "glb_meshes": 182,
+      "glb_nodes": 182,
+      "embedded_images": 8,
+      "exported_objects": 182,
+      "bounds_accessors_present": true,
+      "self_contained_glb": true
+    },
+    {
+      "room": "02_comfort",
+      "blend_bytes": 3348908,
+      "render_dimensions": [
+        1100,
+        760
+      ],
+      "glb_bytes": 7868324,
+      "glb_sha256": "ff9e01bdadd8263b7069b0b44b54396152ecfc2ebbe6ed11cb1441713e28e594",
+      "glb_meshes": 542,
+      "glb_nodes": 542,
+      "embedded_images": 9,
+      "exported_objects": 542,
+      "bounds_accessors_present": true,
+      "self_contained_glb": true
+    },
+    {
+      "room": "03_studio",
+      "blend_bytes": 3796300,
+      "render_dimensions": [
+        1100,
+        760
+      ],
+      "glb_bytes": 12928488,
+      "glb_sha256": "bb67af9929a0a0fb286851fe535920624d83e8e8e18f10bdf83cdbecb5c4446a",
+      "glb_meshes": 1082,
+      "glb_nodes": 1082,
+      "embedded_images": 9,
+      "exported_objects": 1082,
+      "bounds_accessors_present": true,
+      "self_contained_glb": true
+    },
+    {
+      "room": "04_dream",
+      "blend_bytes": 3927527,
+      "render_dimensions": [
+        1100,
+        760
+      ],
+      "glb_bytes": 12767928,
+      "glb_sha256": "7daa8f8831ddb6e883e61bfc91f966bee339d80417d76e72bdfab3a857468ea8",
+      "glb_meshes": 1035,
+      "glb_nodes": 1035,
+      "embedded_images": 9,
+      "exported_objects": 1035,
+      "bounds_accessors_present": true,
+      "self_contained_glb": true
+    }
+  ],
+  "browser_tests": {
+    "all_four_loaded": true,
+    "room_switching": true,
+    "walk_entry_and_movement": true,
+    "return_to_orbit": true,
+    "side_wall_toggle": true,
+    "object_picking": "Study primitive cube"
+  },
+  "not_verified": [
+    "exact reference reconstruction",
+    "watertight manufacturing topology",
+    "full physics collisions",
+    "GitHub deployment",
+    "target-device frame rate"
+  ]
+}

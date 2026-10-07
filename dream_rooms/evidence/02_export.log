@@ -1,0 +1,1104 @@
+00:00.951  blend            | Read blend: "/home/jivraj/experiments/blender/dream_rooms/scenes/02_comfort.blend"
+/home/jivraj/experiments/blender/dream_rooms/export_browser.py:41: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not mat.use_nodes:
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+INFO Draco is available, use library at /home/jivraj/experiments/blender/.tools/blender/blender-5.2.2-linux-x64/lib/libbf_intern_draco_bridge.so
+INFO MeshOptimizer is available, use library at /home/jivraj/experiments/blender/.tools/blender/blender-5.2.2-linux-x64/lib/libbf_intern_meshopt_bridge.so
+19:28:22 | INFO: Starting glTF 2.0 export
+19:28:22 | INFO: Extracting primitive: Cone.256
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.257
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.258
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Abstract artwork line
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.163
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.162
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.167
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.168
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.062
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.063
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.011
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.011
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.012
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.013
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf midrib.014
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.011
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.012
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.013
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort monstera leaf.014
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.200
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Torus.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.201
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.202
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.203
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.204
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.205
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.206
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.207
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.208
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.209
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.210
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.211
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.212
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.213
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.214
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.215
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.216
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf midrib.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort shelf plant leaf.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.230
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Torus.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.231
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.232
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.233
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.234
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.235
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.236
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.237
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.238
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.239
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.240
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.241
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.242
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf midrib.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Comfort upper shelf plant leaf.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.243
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Torus.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.244
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.245
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.246
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.247
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.248
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.249
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.250
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.251
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.252
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.253
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.254
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.255
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.170
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.171
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.155
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.154
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.014
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.012
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.015
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.013
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.149
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.150
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.151
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.152
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.153
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf midrib.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Desk small plant leaf.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.217
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Torus.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.218
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.219
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.220
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.221
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.222
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.223
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.224
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.225
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.226
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.227
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.228
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.229
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.001
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.147
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.146
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.144
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.145
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.143
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.060
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cone.061
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.002
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.003
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.004
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.005
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.006
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.007
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.008
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.009
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.010
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.011
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.012
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.013
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.014
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.015
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.016
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.017
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.018
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.019
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.020
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.021
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.022
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.023
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.024
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.025
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.026
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.027
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.028
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.029
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.030
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.031
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.032
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.033
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.034
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.035
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.036
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.037
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.038
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.039
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.040
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.041
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.042
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.043
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.044
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.045
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.046
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.047
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.048
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.049
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.050
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.051
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.052
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.053
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.054
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.055
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.056
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.057
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.058
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.059
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.060
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.061
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.062
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.063
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.064
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.065
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.066
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.067
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.068
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.069
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.070
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.071
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.072
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.073
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.074
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.075
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.076
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.077
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.078
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.079
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.080
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.081
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.082
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.083
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.084
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.085
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.086
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.087
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.088
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.089
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.090
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.091
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.092
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.093
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.094
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.095
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.096
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.097
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.098
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.099
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.100
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.101
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.102
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.103
+19:28:22 | INFO: Primitives created: 1
+19:28:22 | INFO: Extracting primitive: Cube.104
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.105
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.106
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.107
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.108
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.109
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.110
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.111
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.112
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.113
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.114
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.115
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.116
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.117
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.118
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.119
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.120
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.121
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.122
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.123
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.124
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.125
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.126
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.173
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.172
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.199
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.133
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.127
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.164
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.166
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.148
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.169
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Pleated conical lampshade
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.135
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.130
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.129
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.131
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.132
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.134
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.128
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.194
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.064
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.065
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.066
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.067
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.068
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.069
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.070
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.071
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.072
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.073
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.074
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.075
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.076
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.077
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.078
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.079
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.080
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.081
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.082
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.083
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.084
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.085
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.086
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.087
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.088
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.089
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.090
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.091
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.092
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.093
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.094
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.095
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.096
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.097
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.098
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.099
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.100
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.101
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.102
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.103
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.104
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.105
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.106
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.107
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.108
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.109
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.110
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.111
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.112
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.113
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.114
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.115
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.116
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.117
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.118
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.119
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.120
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.121
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.122
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.123
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.124
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.125
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.126
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.127
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.128
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.129
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.130
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.131
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.132
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.133
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.134
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.135
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.136
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.137
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.138
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.139
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.140
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.141
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.142
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.143
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.144
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.145
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.146
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.147
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.148
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.149
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.150
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.151
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.152
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.153
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.154
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.155
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.156
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.157
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.158
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.159
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.160
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.161
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.162
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.163
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.164
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.165
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.166
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.167
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.168
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.169
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.170
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.171
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.172
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.173
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.174
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.175
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.176
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.177
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.178
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.179
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.180
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.181
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.182
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.183
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.184
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.185
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.186
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.187
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.188
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.189
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.190
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.191
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.192
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.193
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Torus
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.195
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.196
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.197
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Side table white vase
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.198
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Sleeping pillow
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Sleeping pillow.001
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.156
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.158
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.160
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.157
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.159
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.161
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Teal accent cushion
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Teal throw with hanging edges
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.016
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.017
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.018
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.019
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.020
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.021
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.022
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.023
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.024
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.025
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.026
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.027
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.028
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.029
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.030
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.031
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.032
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.033
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.034
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.035
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.036
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.037
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.038
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.039
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.040
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.041
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.042
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.043
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.044
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.045
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.046
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.047
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.048
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.049
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.050
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.051
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.052
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.053
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.054
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.055
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.056
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.057
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.058
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cone.059
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.165
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: White duvet with modeled folds
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Window garden backdrop
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.138
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.139
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.140
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.141
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.136
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.137
+19:28:23 | INFO: Primitives created: 1
+19:28:23 | INFO: Extracting primitive: Cube.142
+19:28:23 | INFO: Primitives created: 1
+19:28:24 | INFO: Finished glTF 2.0 export in 2.525596857070923 s
+
+BROWSER_EXPORT {"room": "comfort", "file": "/home/jivraj/experiments/blender/dream_rooms/viewer/models/02_comfort.glb", "bytes": 7868324, "authored_objects": 542, "baked_color_materials": ["Cream woven rug with labyrinth pattern", "Honey oak furniture", "Oak floor variation 0", "Oak floor variation 1", "Oak floor variation 2", "Oak floor variation 3", "Oak floor variation 4", "Walnut detail"], "omitted": ["Presentation ground", "render cameras", "Blender light rig", "procedural micro-bump"], "material_note": "Base-color procedural textures baked on a canonical UV plane; browser lighting differs from Cycles.", "window_note": "Distant greenery is a cropped-reference backdrop, not modeled vegetation outside the room."}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+
+Blender quit

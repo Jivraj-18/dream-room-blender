@@ -1,0 +1,43 @@
+source_id,title,evidence_type,url,reviewed_scope,limitation,local_snapshot,checked_date
+S01,BlenderAlchemy,paper,https://arxiv.org/abs/2404.17672,Abstract and repository methodology,Constrained editing; no local reproduction,,2026-10-07
+S02,BlenderAlchemy official implementation,repository,https://github.com/ianhuang0630/BlenderAlchemyOfficial,README including pinned Infinigen dependency,Recognized license absent in GitHub metadata; executability untested,sources/BlenderAlchemy-README.md,2026-10-07
+S03,BlenderGym,paper,https://arxiv.org/html/2504.01786v1,Methods; multiview protocol; generation and verification failures,Historical models; not a current harness ranking,,2026-10-07
+S04,LL3M,paper,https://arxiv.org/html/2508.08228v1,Agent roles and limitation example,Refinement can leave spatial defects,,2026-10-07
+S05,LL3M implementation,repository,https://github.com/threedle/ll3m,README; server discontinuation notice,Published client/demo not established as locally runnable,sources/LL3M-README.md,2026-10-07
+S06,VIGA / BlenderBench,paper,https://arxiv.org/html/2601.11109v1,Loop; skill library; benchmark description,Relative metric gains are not success percentages,,2026-10-07
+S07,VIGA implementation,repository,https://github.com/Fugtemypt123/VIGA,README; MIT metadata,Defaults ask for service keys; local adaptation untested,sources/VIGA-README.md,2026-10-07
+S08,EZBlender,paper,https://arxiv.org/html/2601.07143v1,Local repair; latency and token analysis,Task-specific estimates; not complete asset costs,,2026-10-07
+S09,SimWorlds,paper,https://arxiv.org/html/2607.01766v1,Staging; engine-state checks; limitations,Text-only; public runnable implementation not established,,2026-10-07
+S10,SimWorlds project,project_page,https://dynsimworlds.github.io/,Project page,Similarly named repositories not attributed to this paper,,2026-10-07
+S11,BVB / Blender-VideoBench,paper,https://arxiv.org/html/2609.15478v1,Shared protocol; metrics; Appendix K cost frontier; limitations,Preprint; conditional VLM semantic retention; evaluates renders,,2026-10-07
+S12,MCP for Blender,repository,https://github.com/ahujasid/mcp-for-blender,README and current metadata,Bridge capabilities do not establish modeling performance,sources/mcp-for-blender-README.md,2026-10-07
+S13,Blender Agent Studio,repository,https://github.com/ifBars/blender-agent-studio,README; trace adapters; scene extractor; benchmark landscape,Selected code inspected; no execution audit,sources/blender-agent-studio-README.md,2026-10-07
+S14,Blender Agent Studio results,project_experiment,https://ifbars.github.io/blender-agent-studio/results/,October 2 pilot and stated caveats,Small samples; skills/scripts effect not MCP effect,,2026-10-07
+S15,Photo-to-Blender model experiment,practitioner_experiment,https://kaloyan.blog/ai-models-rebuild-a-photo-in-blender,Article including methodology; sixteen-model updated table,Three images; mixed briefs/runners; estimates versus charges,sources/photo-benchmark-blog.txt,2026-10-07
+S16,Photo benchmark discussion,reddit,https://www.reddit.com/r/LLMDevs/comments/1wvqju6/evaluating_14_llms_as_a_visual_coding_agent/,Post and comments via rdt,Earlier fourteen-model title; selected anecdotal discussion,sources/reddit-visual-agent-benchmark.json,2026-10-07
+S17,Positioning loop report,reddit,https://www.reddit.com/r/blender/comments/1v381xt/help_with_blender_mcp_for_creating_youtube_shorts/,Post and comments via rdt,Anecdote; no delivered scene audited,sources/reddit-positioning-loops.json,2026-10-07
+S18,Character pose failure,reddit,https://www.reddit.com/r/blender/comments/1vvekml/i_think_the_blender_mcp_ruined_my_character_model/,Post and comments via rdt,Anecdote; no image or scene audit,sources/reddit-character-pose-failure.json,2026-10-07
+S19,Hospital corridor workflow,reddit,https://www.reddit.com/r/OpenAI/comments/1wem6s7/chatgpt_blender_mcp_built_this_from_scratch/,Post and comments via rdt,Reported human-directed workflow; video and model not audited,sources/reddit-hospital-scene.json,2026-10-07
+S20,Hybrid TRELLIS workflow,reddit,https://www.reddit.com/r/TopologyAI/comments/1ujsb2l/test_to_3d_scene_gen_with_blender_claude_code/,Post and comments via rdt,Demonstration claim; no local reproduction,sources/reddit-hybrid-trellis-workflow.json,2026-10-07
+S21,Blender operator context,official_docs,https://docs.blender.org/api/current/info_gotchas_operators.html,Main documentation text fetched with curl,Current docs must be pinned to experiment Blender version,sources/blender-operators.html,2026-10-07
+S22,Blender threading constraints,official_docs,https://docs.blender.org/api/current/info_gotchas_threading.html,Main documentation text fetched with curl,Parallel candidates should use isolated processes,sources/blender-threading.html,2026-10-07
+S23,Bridge issue 219,issue_report,https://github.com/ahujasid/mcp-for-blender/issues/219,Issue body and comments via gh,Closed; workaround is a user report not universal fix,,2026-10-07
+S24,Bridge issue 299,issue_report,https://github.com/ahujasid/mcp-for-blender/issues/299,Issue body via gh,Closed; reported handler failure not reproduced,,2026-10-07
+S25,Claude Code costs,official_docs,https://code.claude.com/docs/en/costs,Session estimates; subscriptions; team usage,Historical/cloud reference only; no paid runs authorized,,2026-10-07
+S26,Claude Code monitoring,official_docs,https://code.claude.com/docs/en/monitoring-usage,Token/tool telemetry and correlation,Installed route/version may expose different fields,,2026-10-07
+S27,Claude thinking accounting,official_docs,https://platform.claude.com/docs/en/build-with-claude/thinking-steering-and-cost,Inclusive output and thinking breakdown,Summary length is not internal token count,,2026-10-07
+S28,OpenAI usage accounting,official_docs,https://developers.openai.com/api/docs/guides/agents-api/observability,Inclusive output; best-effort usage; cache-write limits,Managed API details do not automatically apply to local model adapters,,2026-10-07
+S29,Codex app server,official_docs,https://learn.chatgpt.com/docs/app-server,Token usage notifications and tool items,Actual payload coverage must be probed,,2026-10-07
+S30,Antigravity headless CLI,official_docs,https://www.antigravity.google/docs/cli/headless/,Tool steps and token usage examples,CLI cloud behavior distinct from SDK local mode,,2026-10-07
+S31,Antigravity local SDK models,official_docs,https://antigravity.google/docs/sdk/local-models,Local server configuration without API key,Documented; not run here,sources/antigravity-local-models.html,2026-10-07
+S32,Codex OSS/local configuration,official_docs,https://learn.chatgpt.com/docs/config-file/config-advanced,OSS and local provider configuration,Model tools/images need validation,,2026-10-07
+S33,Claude Code with local Ollama,official_docs,https://docs.ollama.com/integrations/claude-code,Local Anthropic-compatible endpoint and model integration,Local model is not Claude; cloud examples excluded from plan,,2026-10-07
+S34,Codex with Ollama,official_docs,https://docs.ollama.com/integrations/codex,Local OSS route,Cloud model tags excluded from plan,,2026-10-07
+S35,Ollama usage fields,official_docs,https://docs.ollama.com/api/usage,Token counts and timing; final stream chunk,Field availability depends on installed version,,2026-10-07
+S36,Qwen3-VL,author_repository,https://github.com/QwenLM/Qwen3-VL,Released model sizes and local inference options,No downloaded vision checkpoint or inference test here,,2026-10-07
+S37,llama.cpp,repository,https://github.com/ggml-org/llama.cpp,Local inference runtime,Not installed or tested here,,2026-10-07
+S38,TRELLIS.2,author_repository,https://github.com/microsoft/TRELLIS.2,Specialized image-to-3D component,Optional local hybrid component; hardware fit untested,,2026-10-07
+S39,OpenAI API pricing,official_docs,https://developers.openai.com/api/docs/pricing,Standard short-context reference rate card,Reference only; no payments; speed/context/routes vary,,2026-10-07
+S40,Claude API pricing,official_docs,https://platform.claude.com/docs/en/about-claude/pricing,Model/cache/tool reference rates,Reference only; no payments,,2026-10-07
+S41,Gemini Developer API pricing,official_docs,https://ai.google.dev/gemini-api/docs/pricing,Gemini 3.8 Flash promotional reference rates,Not asserted as Antigravity billing rates,,2026-10-07
+S42,Codex/ChatGPT plan pricing,official_docs,https://learn.chatgpt.com/docs/pricing,Credit versus API billing,Subscription not required by proposed architecture,,2026-10-07

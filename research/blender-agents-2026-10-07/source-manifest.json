@@ -1,0 +1,120 @@
+{
+  "checked_date": "2026-10-07",
+  "snapshots": [
+    {
+      "file": "sources/BlenderAlchemy-README.md",
+      "bytes": 11380,
+      "sha256": "f5bdeee302fc1a3aa6bbce92f6c0ae0214b4db0997c8eae65d39159ca0e0cc7d"
+    },
+    {
+      "file": "sources/LL3M-README.md",
+      "bytes": 16523,
+      "sha256": "daa4409a866cd6b36077701b18c78d5c230b8dc916f779dbbb0691853c27e50b"
+    },
+    {
+      "file": "sources/VIGA-README.md",
+      "bytes": 5628,
+      "sha256": "6934431fe5851715077c1cd4d7ad7d5598683833866963f3e36b565941e5913c"
+    },
+    {
+      "file": "sources/antigravity-local-models.html",
+      "bytes": 99080,
+      "sha256": "5b37acb4d1c5847b7d014e1c4bd8c1cce3c3eba0291c7de79acf43a4b68b001f"
+    },
+    {
+      "file": "sources/blender-agent-studio-README.md",
+      "bytes": 12147,
+      "sha256": "d68f44c4dd24621e1782ffd3e763b9191ccd81d11322e8258bc493415aae4a04"
+    },
+    {
+      "file": "sources/blender-operators.html",
+      "bytes": 345350,
+      "sha256": "bd1c1b3b42eda9fe712de67a1fe192e314d18254d0b6a570934f9d0c1cb4e0e4"
+    },
+    {
+      "file": "sources/blender-threading.html",
+      "bytes": 346440,
+      "sha256": "253c9d6bf863840dda30e503020f0aed24abdef958b3b42538e0216d5a31f228"
+    },
+    {
+      "file": "sources/claude-gateway.html",
+      "bytes": 403805,
+      "sha256": "57c15584164550c9e2236c75de07651dd060e49af2c4faf912f8df88ca42e4d3"
+    },
+    {
+      "file": "sources/mcp-for-blender-README.md",
+      "bytes": 35010,
+      "sha256": "1bdbce54f86dea404a526c088ac252540c1f91a20a9a9fe9a49ad056e066c810"
+    },
+    {
+      "file": "sources/photo-benchmark-blog.html",
+      "bytes": 133953,
+      "sha256": "a262aca110a280be0e5b23d3e72ea1098208009ccd97912525c3e7837b2c15df"
+    },
+    {
+      "file": "sources/photo-benchmark-blog.txt",
+      "bytes": 23888,
+      "sha256": "d29408126a79f6bf58ee1a71e91faf3b58683f3ac1b0cc2d1ca2ee5bafd8d2a2"
+    },
+    {
+      "file": "sources/reddit-blender-mcp-search.json",
+      "bytes": 11953,
+      "sha256": "37c50116496166e264969f7aba3cf0d959ed275285537fe1ae3327e4559aef6b"
+    },
+    {
+      "file": "sources/reddit-character-pose-failure.json",
+      "bytes": 14523,
+      "sha256": "aaba65271bff57f951ff78941f316532c8d7924c5eb2f9dea2a1c6633d884014"
+    },
+    {
+      "file": "sources/reddit-failure-search.json",
+      "bytes": 55134,
+      "sha256": "6c0be2732162ab267dbb54af0e0500072565ff5c361428195036ae572d7ec225"
+    },
+    {
+      "file": "sources/reddit-hospital-scene.json",
+      "bytes": 51761,
+      "sha256": "2ee5daa69401f483e230a687352048508d7697c23db23b96488be5582b60b174"
+    },
+    {
+      "file": "sources/reddit-hybrid-trellis-workflow.json",
+      "bytes": 15406,
+      "sha256": "88c8a3f2ab8dd5ca693aab7757a46fc361d30eca604c60f97cdda19745781db8"
+    },
+    {
+      "file": "sources/reddit-positioning-loops.json",
+      "bytes": 47937,
+      "sha256": "d67a145afbc05c5ec9bed7542b35b24514e1ba30dfc3e6134fa84e65f7cdba5f"
+    },
+    {
+      "file": "sources/reddit-self-correction-search.json",
+      "bytes": 140375,
+      "sha256": "7f9b034cc2305159c4aa648e8d2eca2bd1504722b10b61bfe979684eb153022b"
+    },
+    {
+      "file": "sources/reddit-visual-agent-benchmark.json",
+      "bytes": 29604,
+      "sha256": "9711a81ffd924b048d82fcce87d0f4bc2de0eca50dbf39a79765f0eb70c9a0b2"
+    },
+    {
+      "file": "sources/studio-benchmark-landscape.md",
+      "bytes": 8022,
+      "sha256": "4d99b4fe0d85e60db9cee2532009f811f912869f3599f3e23c03cf351752eaea"
+    },
+    {
+      "file": "sources/studio-claude-agent.ts",
+      "bytes": 2868,
+      "sha256": "987d9f7b9295b488cffe7971d4e7640c9142c15a8efe322512a18e13bb1ffbdf"
+    },
+    {
+      "file": "sources/studio-extract-scene-ir.py",
+      "bytes": 5375,
+      "sha256": "6e5a4613e85b9f1de6bd5820c80275ddef2ab9b40e10f6567fb227fc859a5202"
+    },
+    {
+      "file": "sources/studio-trace.ts",
+      "bytes": 2854,
+      "sha256": "5ce97ef7e306cd500aad08bd3ff5891630ba60bb0a188f1c77642528f25e2d15"
+    }
+  ]
+}

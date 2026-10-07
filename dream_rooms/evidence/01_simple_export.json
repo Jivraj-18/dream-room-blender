@@ -1,0 +1,23 @@
+{
+  "room": "simple",
+  "file": "/home/jivraj/experiments/blender/dream_rooms/viewer/models/01_simple.glb",
+  "bytes": 5479660,
+  "authored_objects": 182,
+  "baked_color_materials": [
+    "Honey oak furniture",
+    "Oak floor variation 0",
+    "Oak floor variation 1",
+    "Oak floor variation 2",
+    "Oak floor variation 3",
+    "Oak floor variation 4",
+    "Walnut detail"
+  ],
+  "omitted": [
+    "Presentation ground",
+    "render cameras",
+    "Blender light rig",
+    "procedural micro-bump"
+  ],
+  "material_note": "Base-color procedural textures baked on a canonical UV plane; browser lighting differs from Cycles.",
+  "window_note": "Distant greenery is a cropped-reference backdrop, not modeled vegetation outside the room."
+}

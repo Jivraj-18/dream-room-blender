@@ -1,0 +1,12 @@
+.tools/
+.playwright-mcp/
+.agents/
+.codex/
+.aws/
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+research/*/sources/
+.env
+.env.*

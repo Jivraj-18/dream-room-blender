@@ -1,0 +1,9 @@
+{
+  "checked_date": "2026-10-07",
+  "purpose": "reviewed reference commits; not installed or run",
+  "repositories": {
+    "ifBars/blender-agent-studio": "9191be7ee2b5ce4bd0596fadcddf8f7b0c6ec3b1",
+    "Fugtemypt123/VIGA": "69cb8ef0651bf68124815682df4a0f8e8b57c141",
+    "ahujasid/mcp-for-blender": "7a0373ec9199183cb460068c4f96aed9c579fb4f"
+  }
+}
