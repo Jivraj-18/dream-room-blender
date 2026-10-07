@@ -78,7 +78,23 @@
     "exact reference reconstruction",
     "watertight manufacturing topology",
     "full physics collisions",
-    "GitHub deployment",
     "target-device frame rate"
-  ]
+  ],
+  "publication_verification": {
+    "repository": "https://github.com/Jivraj-18/dream-room-blender",
+    "viewer": "https://jivraj-18.github.io/dream-room-blender/",
+    "pages_deployment": "https://github.com/Jivraj-18/dream-room-blender/actions/runs/37654243687",
+    "pages_status": "built",
+    "viewer_http_status": 200,
+    "all_four_glb_http_status": 200,
+    "public_browser": {
+      "simple_ready": true,
+      "simple_objects": 182,
+      "dream_ready": true,
+      "dream_objects": 1035,
+      "room_switching": true,
+      "console_errors": 0
+    },
+    "note": "Public browser verification ran against the initial publication; the subsequent commit updates documentation and this evidence only."
+  }
 }

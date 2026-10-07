@@ -49,7 +49,7 @@ Geometry is batched for rendering while retaining originals for object inspectio
 
 ## GitHub Pages
 
-The **contents of `viewer/`** form a self-contained static site: HTML, CSS, JavaScript, vendor modules, posters and GLB models. No backend, API token, npm build or paid service is required. Nothing has been published to a GitHub repository by this task.
+The **contents of `viewer/`** form a self-contained static site: HTML, CSS, JavaScript, vendor modules, posters and GLB models. No backend, API token, npm build or paid service is required. Published repository: [Jivraj-18/dream-room-blender](https://github.com/Jivraj-18/dream-room-blender). Explore all four rooms at [the live GitHub Pages viewer](https://jivraj-18.github.io/dream-room-blender/).
 
 To publish using an existing public repository, put those contents into its root or a `docs/` folder. In repository **Settings → Pages**, choose deployment from the relevant branch and folder. Preserve the relative `models/`, `posters/` and `vendor/` paths. See [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
 
